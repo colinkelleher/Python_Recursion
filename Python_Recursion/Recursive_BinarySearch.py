@@ -1,8 +1,6 @@
 
 '''
-QUESTION 2
-
-2. BinarySearchR(l )
+BinarySearchR(l )
 Write a recursive version of the binary search algorithm that accepts a list.
 A template of the iterative version has been provided on Moodle.
 You can hardcode the list and the search term as in this template.
